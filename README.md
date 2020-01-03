@@ -6,7 +6,7 @@ switch putty theme
 ```  
 Windows Registry Editor Version 5.00 
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\SESSION_NAME] 
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings] 
 
 ; Default Foreground 
 "Colour0"="217,216,216" 
