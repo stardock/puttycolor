@@ -1,0 +1,2 @@
+# puttycolor
+switch putty theme
